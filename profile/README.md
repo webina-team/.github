@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     width="250"
-    src="webina-logo.png"
+    src="https://raw.githubusercontent.com/webina-team/.github/main/profile/webina-logo.png"
   >
 </p>
 
