@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    width="250"
+    src="../images/webina-logo.png"
+  >
+</p>
+
 # Hi, we’re Webina 👋
 
 We’re a small team with a relentless focus on mighty fine software. Day-to-day we’re building amazing software, web applications, and websites to solve real-world problems.
