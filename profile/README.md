@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     width="250"
-    src="../images/webina-logo.png"
+    src="webina-logo.png"
   >
 </p>
 
